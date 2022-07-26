@@ -1,3 +1,8 @@
 # Staffany Take Home Test
 
-You are free to modify the starting code, but you are not allowed to entirely throw out the existing code. Part of the assessment criteria is to understand how well you can understand and utilize existing code.
+This is my submission for Staffany's Take Home Assignment.
+
+I actually created separated repos for backend on frontend on these links respectively, if you want to see my commit history, please kindly check :
+
+- Backend : https://github.com/rizqyep/staffany-assignment-be
+- Frontend : https://github.com/rizqyep/staffany-assignment-frontend
